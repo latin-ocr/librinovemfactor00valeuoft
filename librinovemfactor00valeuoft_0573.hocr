@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./librinovemfactor00valeuoft_0573.png"; bbox 0 0 2516 3509; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 304 1023 2166 1143">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 304 1023 2166 1143">
+     <span class='ocr_line' id='line_1_1' title="bbox 304 1023 2166 1143; baseline 0.011 -20"><span class='ocrx_word' id='word_1_1' title='bbox 304 1023 1152 1130; x_wconf 90' lang='lat' dir='ltr'>VALERII</span> <span class='ocrx_word' id='word_1_2' title='bbox 1348 1027 2166 1143; x_wconf 86' lang='lat' dir='ltr'>MAXIMI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 496 1257 1955 1337">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 496 1257 1955 1337">
+     <span class='ocr_line' id='line_1_2' title="bbox 496 1257 1955 1337; baseline 0.009 -13"><span class='ocrx_word' id='word_1_3' title='bbox 496 1257 1069 1327; x_wconf 82' lang='lat' dir='ltr'>LIBRI</span> <span class='ocrx_word' id='word_1_4' title='bbox 1274 1263 1955 1337; x_wconf 82' lang='lat' dir='ltr'>NOVEM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 113 1459 2334 1600">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 113 1459 2334 1600">
+     <span class='ocr_line' id='line_1_3' title="bbox 113 1459 2334 1600; baseline 0.008 -29"><span class='ocrx_word' id='word_1_5' title='bbox 113 1459 1028 1581; x_wconf 87' lang='lat' dir='ltr'>FACTORUM</span> <span class='ocrx_word' id='word_1_6' title='bbox 1137 1464 2334 1600; x_wconf 87' lang='lat' dir='ltr'><strong>DICTORUMQUE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 373 1687 2072 1949">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 373 1687 2072 1949">
+     <span class='ocr_line' id='line_1_4' title="bbox 699 1687 1760 1759; baseline 0.009 -11"><span class='ocrx_word' id='word_1_7' title='bbox 699 1687 1760 1759; x_wconf 87' lang='lat' dir='ltr'>MEMORABILIORUM.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 373 1863 2072 1949; baseline 0.011 -19"><span class='ocrx_word' id='word_1_8' title='bbox 373 1863 980 1934; x_wconf 77' lang='lat' dir='ltr'><em>TOMUS-</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1104 1869 2072 1949; x_wconf 71' lang='lat' dir='ltr'><em>SECUNDUS,</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
